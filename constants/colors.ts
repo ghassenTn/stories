@@ -1,0 +1,33 @@
+export default {
+  primary: '#5E72E4',
+  secondary: '#F7FAFC',
+  accent: '#11CDEF',
+  success: '#2DCE89',
+  info: '#6772E5',
+  warning: '#FB6340',
+  error: '#F5365C',
+  dark: '#32325D',
+  light: '#F7FAFC',
+  muted: '#8898AA',
+  white: '#FFFFFF',
+  black: '#000000',
+  gray: {
+    100: '#F7FAFC',
+    200: '#E9ECEF',
+    300: '#DEE2E6',
+    400: '#CED4DA',
+    500: '#ADB5BD',
+    600: '#8898AA',
+    700: '#525F7F',
+    800: '#32325D',
+    900: '#212529',
+  },
+  text: '#32325D',
+  background: '#FFFFFF',
+  card: '#FFFFFF',
+  border: '#E9ECEF',
+  drawer: {
+    overlay: 'rgba(0, 0, 0, 0.5)',
+    shadow: 'rgba(0, 0, 0, 0.1)',
+  }
+};
